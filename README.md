@@ -1,5 +1,6 @@
 # StudentHelperApp
 -This is a school project/android application whose main task is to ilustrate how to fetch data from API and save it in local database and also how to work with localbase. 
+
 -It contains 3 parts:
 1. first of them is splash activity that checks if user is logged, if he's not, he has to log in.
 2. if user is logged, he will see 3 windows (fragments shown with view pager). One window is used to show data fetched from API of my faculty (timetable). You can also filter timetable data by day, group, teacher or subject. User can also creates notes, which will be stored in local data base. User can search notes by title or content, delete, change, add and archive note.
